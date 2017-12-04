@@ -1,3 +1,0 @@
-# Prova markdown
-
-The 'hifi' version of the pygame website has been running for over six months now, but now it is the default page and not hiding itself. The old website stuff is still running and can be found at: http://pygame.org/news.html. You can follow development of the website via bitbucket issues https://bitbucket.org/pygame/pygame/issues?component=website. Also please log any issues you have with the website under the "website" component. More and more parts of the old website will slowly be replaced with the new stuff. Until then try and enjoy the Frankenstein abomination that is pygame.org.

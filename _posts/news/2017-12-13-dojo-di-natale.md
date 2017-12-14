@@ -10,8 +10,8 @@ categories:
 image:
     title: dojo-natale.jpg
     thumb: dojo-natale-thumb.jpg
-    home: dojo-natale-home.jpg
-    caption: Dojo di Natale by Elena
+    homepage: dojo-natale-home.jpg
+    caption: Dojo di Natale all'Innovation Square 
 header:
     image_fullwidth: "kids-coding.png"
     title: I Luoghi

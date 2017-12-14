@@ -13,7 +13,7 @@ image:
     homepage: dojo-natale-home.jpg
     caption: Dojo di Natale
 header:
-    image_fullwidth: "kids-coding.png"
+    image_fullwidth: "header-kids-coding-natale.png"
     title: Dojo di Natale
 comments: true
 show_meta: true

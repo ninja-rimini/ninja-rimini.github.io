@@ -8,13 +8,13 @@ breadcrumb: true
 categories:
     - news
 image:
-    title: dojo-natale.jpg
     thumb: dojo-natale-thumb.jpg
+    title: dojo-natale.jpg
     homepage: dojo-natale-home.jpg
-    caption: Dojo di Natale all'Innovation Square 
+    caption: Dojo di Natale
 header:
     image_fullwidth: "kids-coding.png"
-    title: I Luoghi
+    title: Dojo di Natale
 comments: true
 show_meta: true
 tags:

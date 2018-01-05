@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "Il 20 gennaio 2018 primo incontro del 2018"
+title:  "Il 20 gennaio 2018 primo incontro dell'anno"
 teaser: "Al centro civico di Via Bidente l'evento del Coderdojo di Rimini che inaugura il nuovo anno"
 breadcrumb: true
 categories:

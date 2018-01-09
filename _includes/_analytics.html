@@ -1,17 +1,10 @@
-{% comment %}
-*
-*  http://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site
-*
-{% endcomment %}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-<nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
- <a href="{{ site.url }}{{ site.baseurl }}">{{ site.data.language.breadcrumb_start }}</a>
- {% assign crumbs = page.url | split: '/' %}
-   {% for crumb in crumbs offset: 1 %}
-    {% if forloop.last %}
-        <a class="current">{{ page.title }}</a>
-    {% else %}
-        <a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a>
-    {% endif %}
-  {% endfor %}
-</nav>
+  ga('create', 'UA-112170921-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

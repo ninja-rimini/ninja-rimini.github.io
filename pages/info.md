@@ -1,61 +1,43 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "Chi siamo"
+subheadline: "Coderdojo Rimini"
+teaser: "CoderDojo Rimini è dedicato a ragazze e ragazzi di età compresa tra i 7 e 14 anni che vogliono imparare a programmare affiancati da informatici professionisti.
+Gli incontri si tengono ogni primo sabato e ogni terzo sabato del mese, dalle 15 alle 18."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_homepage_13.jpg"
 ---
-...and learn at the same time.
+I luoghi dove ci troviamo sono:
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+### [Rimini Innovation Square](http://www.riminiturismo.it/ "Rimini Innovation Square")
+Il primo sabato del mese *Innovation Square* Corso d'Augusto, 62:
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.206397874127!2d12.567132815510934!3d44.05844647910945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc3a3e634cc1b%3A0x7d8eea11445e556a!2sRimini+Innovation+Square!5e0!3m2!1sit!2sit!4v1512163784478" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+### Centro Civico di Via Bidente
+Il terzo sabato del mese *Centro civico* di Via Bidente.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1434.1160528308324!2d12.573894958136409!3d44.03726059477753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc256198b3bfb%3A0xe26c0111b4a6ecb9!2sVia+Bidente%2C+1%2Fi%2C+47924+Rimini+RN!5e0!3m2!1sit!2sit!4v1512164087678" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
+### Importante
 
-## I got inspired by...
+CoderDojo Rimini adotta il protocollo didattico del [Gordon Model][1].
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+* la nostra [FAQ][2]
+* il nostro [Statuto][3]
+* la nostra mail: coderdojorimini@gmail.com
+* il nostro sito: [www.coderdojorimini.org][4]
+* la nostra pagina facebook: [coderdojorimini][5]
+* ci puoi contattare su twitter:[@coderdojoRN][6]
+* ti puoi iscrivere ai prossimi incontri su [zen.coderdojo.com][7]
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
 
-#### Since then, fork it!
+### Grazie!
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+ [1]: https://github.com/gordonway/coderDojoTools
+ [2]: https://www.coderdojorimini.org/chi-siamo/domande-frequenti/
+ [3]: https://coderdojo.com/reporting-governance/
+ [4]: https://www.coderdojorimini.org
+ [5]: https://www.facebook.com/coderdojorimini/
+ [6]: https://twitter.com/coderdojoRN
+ [7]: https://zen.coderdojo.com/dojos/it/emilia-romagna/rimini-province-of-rimini/rimini

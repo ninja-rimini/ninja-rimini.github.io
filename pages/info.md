@@ -1,23 +1,13 @@
 ---
 layout: page
-title: "Chi siamo"
+title: "Info"
 subheadline: "Coderdojo Rimini"
 teaser: "CoderDojo Rimini è dedicato a ragazze e ragazzi di età compresa tra i 7 e 14 anni che vogliono imparare a programmare affiancati da informatici professionisti.
 Gli incontri si tengono ogni primo sabato e ogni terzo sabato del mese, dalle 15 alle 18."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_homepage_13.jpg"
+    image_fullwidth: "header_unsplash_5jpg"
 ---
-I luoghi dove ci troviamo sono:
-
-### [Rimini Innovation Square](http://www.riminiturismo.it/ "Rimini Innovation Square")
-Il primo sabato del mese *Innovation Square* Corso d'Augusto, 62:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.206397874127!2d12.567132815510934!3d44.05844647910945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc3a3e634cc1b%3A0x7d8eea11445e556a!2sRimini+Innovation+Square!5e0!3m2!1sit!2sit!4v1512163784478" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-### Centro Civico di Via Bidente
-Il terzo sabato del mese *Centro civico* di Via Bidente.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1434.1160528308324!2d12.573894958136409!3d44.03726059477753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc256198b3bfb%3A0xe26c0111b4a6ecb9!2sVia+Bidente%2C+1%2Fi%2C+47924+Rimini+RN!5e0!3m2!1sit!2sit!4v1512164087678" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 
 ### Importante
 

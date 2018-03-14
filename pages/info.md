@@ -6,7 +6,7 @@ teaser: "CoderDojo Rimini è dedicato a ragazze e ragazzi di età compresa tra i
 Gli incontri si tengono ogni primo sabato e ogni terzo sabato del mese, dalle 15 alle 18."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_unsplash_5jpg"
+    image_fullwidth: "header_unsplash_5.jpg"
 ---
 
 ### Importante

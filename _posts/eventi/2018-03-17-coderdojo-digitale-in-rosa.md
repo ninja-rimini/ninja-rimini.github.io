@@ -8,26 +8,27 @@ breadcrumb: true
 gallery:
     - image_url: p1.jpg
     - image_url: p2.jpg
-    - image_url: 3.jpg
-    - image_url: 4.jpg  
-    - image_url: 5.jpg     
-    - image_url: 6.jpg
-    - image_url: 7.jpg
-    - image_url: 8.jpg
-    - image_url: 9.jpg
-    - image_url: 10.jpg
-    - image_url: 11.jpg
-    - image_url: 12.jpg
-    - image_url: 13.jpg
-    - image_url: 14.jpg
-    - image_url: 15.jpg
-    - image_url: 16.jpg
-    - image_url: 17.jpg
-    - image_url: 18.jpg
-    - image_url: 19.jpg
-    - image_url: 20.jpg
-    - image_url: 21.jpg
-    - image_url: 22.jpg
+    - image_url: p3.jpg
+    - image_url: p4.jpg  
+    - image_url: p5.jpg     
+    - image_url: p6.jpg
+    - image_url: p7.jpg
+    - image_url: p8.jpg
+    - image_url: p9.jpg
+    - image_url: p10.jpg
+    - image_url: p11.jpg
+    - image_url: p12.jpg
+    - image_url: p13.jpg
+    - image_url: p14.jpg
+    - image_url: p15.jpg
+    - image_url: p16.jpg
+    - image_url: p17.jpg
+    - image_url: p18.jpg
+    - image_url: p19.jpg
+    - image_url: p20.jpg
+    - image_url: p21.jpg
+    - image_url: p22.jpg
+
 categories:
     - eventi
 image:

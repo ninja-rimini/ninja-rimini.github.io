@@ -1,61 +1,33 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "Info"
+subheadline: "Coderdojo Rimini"
+teaser: "CoderDojo Rimini è dedicato a ragazze e ragazzi di età compresa tra i 7 e 14 anni che vogliono imparare a programmare affiancati da informatici professionisti.
+Gli incontri si tengono ogni primo sabato e ogni terzo sabato del mese, dalle 15 alle 18."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_unsplash_5.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+### Importante
 
+CoderDojo Rimini adotta il protocollo didattico del [Gordon Model][1].
 
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+* la nostra [FAQ][2]
+* il nostro [Statuto][3]
+* la nostra mail: coderdojorimini@gmail.com
+* il nostro sito: [www.coderdojorimini.org][4]
+* la nostra pagina facebook: [coderdojorimini][5]
+* ci puoi contattare su twitter:[@coderdojoRN][6]
+* ti puoi iscrivere ai prossimi incontri su [zen.coderdojo.com][7]
 
 
+### Grazie!
 
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+ [1]: https://github.com/gordonway/coderDojoTools
+ [2]: https://www.coderdojorimini.org/chi-siamo/domande-frequenti/
+ [3]: https://coderdojo.com/reporting-governance/
+ [4]: https://www.coderdojorimini.org
+ [5]: https://www.facebook.com/coderdojorimini/
+ [6]: https://twitter.com/coderdojoRN
+ [7]: https://zen.coderdojo.com/dojos/it/emilia-romagna/rimini-province-of-rimini/rimini

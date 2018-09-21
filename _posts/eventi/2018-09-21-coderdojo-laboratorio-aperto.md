@@ -21,7 +21,7 @@ tags:
 
 
 ---
-Sabato 6 ottobre 2018 ci vediamo presso il Laboratorio Aperto di Rimini in Via dei Cavalieri, 26, 47921 Rimini
+Sabato 6 ottobre 2018 ci vediamo presso il [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri, 26, 47921 Rimini
 
 Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/dojo/3148c898-d114-43f8-98de-e02bf0e167f3/event/f99993ec-9b50-4fd0-887e-9d67810a1185)
 

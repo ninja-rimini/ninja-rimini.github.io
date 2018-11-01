@@ -21,7 +21,7 @@ tags:
 
 
 ---
-Sabato 4 novembre 2018 ci vediamo dalle 15:30 presso il [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri, 26, 47921 Rimini.
+Sabato 3 novembre 2018 ci vediamo dalle 15:30 presso il [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri, 26, 47921 Rimini.
 
 Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/9f469c05-4d9a-475a-ba82-bc1a7cfc2ad8/sessions)
 

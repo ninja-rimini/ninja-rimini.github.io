@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Eventi
 title:  "2° Coderdojo al Laboratorio Aperto di Rimini"
-teaser: "Il 4 novembre 2018 il Coderdojo Rimini torna al laboratorio aperto per secondo  incontro della stagione"
+teaser: "Il 3 novembre 2018 il Coderdojo Rimini torna al laboratorio aperto per secondo  incontro della stagione"
 breadcrumb: true
 categories:
     - eventi

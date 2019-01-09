@@ -10,7 +10,7 @@ categories:
 image:
     thumb: "incontro-09012015-15-thumb.jpg"
     title: "incontro-09012015-15.jpg"
-    homepage: "coderdojo-laboratorio-Natale-2018-home.jpg"
+    homepage: "evento_25112017_home.jpg"
 header:
     image_fullwidth: "evento_25112017_home.jpg"
     caption:

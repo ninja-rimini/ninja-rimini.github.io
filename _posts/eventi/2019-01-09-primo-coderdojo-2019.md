@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: Eventi
 title:  "5° Coderdojo al Laboratorio Aperto di Rimini"
-teaser: "Il 12 gennaio 2018 si apre il 2019 del Coderdojo di Rimini"
+teaser: "Il 12 gennaio 2019 si apre il nuovo Anno del Coderdojo di Rimini"
 breadcrumb: true
 categories:
     - eventi

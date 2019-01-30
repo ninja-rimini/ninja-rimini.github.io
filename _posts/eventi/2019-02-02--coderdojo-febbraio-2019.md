@@ -8,11 +8,11 @@ breadcrumb: true
 categories:
     - eventi
 image:
-    thumb: "-thumb.jpg"
+    thumb: "dojo-02-2019-thumb.jpg"
     title: "dojo-02-2019.jpg"
-    homepage: "dojo-02-2019_home.jpg"
+    homepage: "dojo-02-2019-home.jpg"
 header:
-    image_fullwidth: "dojo-02-2019_home.jpg"
+    image_fullwidth: "dojo-02-2019-home.jpg"
     caption:
 comments: true
 show_meta: true

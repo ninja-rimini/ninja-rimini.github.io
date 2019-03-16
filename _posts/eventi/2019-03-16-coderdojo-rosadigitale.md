@@ -3,31 +3,13 @@ layout: page
 sidebar: right
 subheadline: Eventi
 title:  "Coderdojo e Digitale in Rosa"
-teaser: "Il 16 marzo 2019 il Coderdojo ospita l'evento Digitale in Rosa"
+teaser: "Il 16 marzo 2019 il Coderdojo ospita l'evento Petali di Rosa Digitale"
 breadcrumb: true
 gallery:
     - image_url: foto1.jpg
     - image_url: foto2.jpg
     - image_url: foto3.jpg
-    - image_url: p4.jpg  
-    - image_url: p5.jpg     
-    - image_url: p6.jpg
-    - image_url: p7.jpg
-    - image_url: p8.jpg
-    - image_url: p9.jpg
-    - image_url: p10.jpg
-    - image_url: p11.jpg
-    - image_url: p12.jpg
-    - image_url: p13.jpg
-    - image_url: p14.jpg
-    - image_url: p15.jpg
-    - image_url: p16.jpg
-    - image_url: p17.jpg
-    - image_url: p18.jpg
-    - image_url: p19.jpg
-    - image_url: p20.jpg
-    - image_url: p21.jpg
-    - image_url: p22.jpg
+    -
 
 categories:
     - eventi
@@ -47,7 +29,7 @@ tags:
 ---
 Sabato 16 marzo 2019 si terrà l'evento *Petali di Rosa Digitale*.
 
-Si tratta di un incontro dedicato al digitale al femminile, per fare avvicinare specificamente le bambine e le ragazze alla cultura digitale e alla innovazione scientifica e tecnologica. La mentor Elena Moretti porterà le ultime esperienze maturate su questo tema in ambito didattico.
+Si tratta di un incontro dedicato al digitale al femminile, per fare avvicinare specificamente le bambine e le ragazze alla cultura digitale e alla innovazione scientifica e tecnologica. Stefania Altieri, insegnante ed esperta di tecnologia, presenterà giochi di coding unplugged.
 
 
 

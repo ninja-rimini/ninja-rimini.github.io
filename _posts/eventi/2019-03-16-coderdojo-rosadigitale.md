@@ -45,7 +45,7 @@ show_meta: true
 tags:
     - eventi
 ---
-Sabato 17 marzo 2018 si terrà l'evento *Petali di Rosa Digitale*.
+Sabato 16 marzo 2019 si terrà l'evento *Petali di Rosa Digitale*.
 
 Si tratta di un incontro dedicato al digitale al femminile, per fare avvicinare specificamente le bambine e le ragazze alla cultura digitale e alla innovazione scientifica e tecnologica. La mentor Elena Moretti porterà le ultime esperienze maturate su questo tema in ambito didattico.
 

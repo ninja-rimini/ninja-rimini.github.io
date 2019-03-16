@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "Coderdojo e il Digitale in Rosa"
+title:  "Coderdojo e Digitale in Rosa"
 teaser: "Il 16 marzo 2019 il Coderdojo ospita l'evento Digitale in Rosa"
 breadcrumb: true
 gallery:
@@ -32,9 +32,9 @@ gallery:
 categories:
     - eventi
 image:
-    thumb: digitale-in-rosa-thumb.jpg
-    title: digitale-in-rosa-post.jpg
-    homepage: digitale-in-rosa-home.jpg
+    thumb: rosadigitale2019_thumb.jpg
+    title: rosadigitale2019_post.jpg
+    homepage: rosadigitale2019_home.jpg
     caption: Laboratorio Aperto Rimini Tiberio
     caption_url:
 header:

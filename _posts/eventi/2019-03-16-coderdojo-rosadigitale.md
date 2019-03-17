@@ -6,21 +6,26 @@ title:  "Coderdojo e Digitale in Rosa"
 teaser: "Il 16 marzo 2019 il Coderdojo ospita l'evento Petali di Rosa Digitale"
 breadcrumb: true
 gallery:
-    - image_url: 20190316_rosadigitale_01.jpg
-    - image_url: 20190316_rosadigitale_02.mp4
-    - image_url: 20190316_rosadigitale_03.jpg
-    - image_url: 20190316_rosadigitale_04.mp4
-    - image_url: 20190316_rosadigitale_05.jpg
     - image_url: 20190316_rosadigitale_06.jpg
+    - image_url: 20190316_rosadigitale_03.jpg
     - image_url: 20190316_rosadigitale_07.jpg
     - image_url: 20190316_rosadigitale_08.jpg
     - image_url: 20190316_rosadigitale_09.jpg
-    - image_url: 20190316_rosadigitale_10.jpg
     - image_url: 20190316_rosadigitale_11.jpg
-    - image_url: 20190316_rosadigitale_12.jpg
-    - image_url: 20190316_rosadigitale_13.jpg
+    - image_url: 20190316_rosadigitale_15.jpg
+    - image_url: 20190316_rosadigitale_16.jpg
+    - image_url: 20190316_rosadigitale_17.jpg
+    - image_url: 20190316_rosadigitale_19.jpg
+    - image_url: 20190316_rosadigitale_23.jpg
+    - image_url: 20190316_rosadigitale_24.jpg
+    - image_url: 20190316_rosadigitale_25.jpg
+    - image_url: 20190316_rosadigitale_21.jpg
+    - image_url: 20190316_rosadigitale_20.jpg
     - image_url: 20190316_rosadigitale_14.jpg
+    - image_url: 20190316_rosadigitale_12.jpg
 
+
+  
 
 categories:
     - eventi

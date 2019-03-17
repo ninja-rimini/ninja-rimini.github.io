@@ -6,10 +6,16 @@ title:  "Coderdojo e Digitale in Rosa"
 teaser: "Il 16 marzo 2019 il Coderdojo ospita l'evento Petali di Rosa Digitale"
 breadcrumb: true
 gallery:
-    - image_url: foto1.jpg
-    - image_url: foto2.jpg
-    - image_url: foto3.jpg
-    -
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (1).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (2).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (3).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (4).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (5).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (6).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (7).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (8).jpg
+    - image_url: 2019_03_16_petali-rosa-digitale2019_ (9).jpg
+
 
 categories:
     - eventi
@@ -18,7 +24,7 @@ image:
     title: rosadigitale2019_post.jpg
     homepage: rosadigitale2019_home.jpg
     caption: Laboratorio Aperto Rimini Tiberio
-    caption_url:
+    caption_url: http://laboratorioaperto.comune.rimini.it/
 header:
     image_fullwidth: "evento_17032018_home.jpg"
     caption: Evento al Laboratorio Aperto Rimini Tiberio

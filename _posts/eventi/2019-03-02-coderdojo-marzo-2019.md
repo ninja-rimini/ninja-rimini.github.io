@@ -19,7 +19,7 @@ show_meta: true
 tags:
     - eventi
 ---
-Sabato 6 aprile 2019 Vi aspettiamo dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22, 47921 Rimini.
+Sabato 2 marzo 2019 Vi aspettiamo dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22, 47921 Rimini.
 
 Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/956d147b-1e13-4638-bef3-0d3cbdb5f3c2/)
 

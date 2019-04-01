@@ -2,17 +2,17 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "7° Coderdojo al Laboratorio Aperto di Rimini"
-teaser: "Il 2 marzo 2019 Coderdojo di Rimini"
+title:  "8° Coderdojo al Laboratorio Aperto di Rimini"
+teaser: "Il 6 aprile 2019 Coderdojo di Rimini"
 breadcrumb: true
 categories:
     - eventi
 image:
-    thumb: "dojo-03-2019-thumb.jpg"
-    title: "dojo-03-2019.jpg"
-    homepage: "dojo-03-2019-home.jpg"
+    thumb: "dojo-04-2019-thumb.jpg"
+    title: "dojo-04-2019.jpg"
+    homepage: "dojo-04-2019-home.jpg"
 header:
-    image_fullwidth: "dojo-03-2019-home.jpg"
+    image_fullwidth: "dojo-04-2019-home.jpg"
     caption:
 comments: true
 show_meta: true

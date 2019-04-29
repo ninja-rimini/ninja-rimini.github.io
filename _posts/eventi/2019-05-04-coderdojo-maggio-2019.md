@@ -21,7 +21,7 @@ tags:
 ---
 Sabato 4 maggio 2019 Vi aspettiamo dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22, 47921 Rimini.
 
-Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/0640a7b1-3096-49c0-9547-e19befd9cd1a/sessions)
+Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/dojos/it/emilia-romagna/rimini-province-of-rimini/rimini)
 
 Il Laboratorio Aperto Rimini Tiberio è in centro a Rimini vicino al Ponte di Tiberio, consigliamo il parcheggio, se venite in automobile, presso il parcheggio Tiberio:
 

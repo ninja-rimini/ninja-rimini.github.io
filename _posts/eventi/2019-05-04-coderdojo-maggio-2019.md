@@ -2,26 +2,26 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "7° Coderdojo al Laboratorio Aperto di Rimini"
-teaser: "Il 2 marzo 2019 Coderdojo di Rimini"
+title:  "9° Coderdojo al Laboratorio Aperto di Rimini"
+teaser: "Il 4 maggio 2019 Coderdojo di Rimini"
 breadcrumb: true
 categories:
     - eventi
 image:
-    thumb: "dojo-03-2019-thumb.jpg"
-    title: "dojo-03-2019.jpg"
-    homepage: "dojo-03-2019-home.jpg"
+    thumb: "dojo_maggio2019-thumb.jpg"
+    title: "dojo_maggio2019.jpg"
+    homepage: "dojo_maggio2019-home.jpg"
 header:
-    image_fullwidth: "dojo-03-2019-home.jpg"
+    image_fullwidth: "dojo_maggio2019-home.jpg"
     caption:
 comments: true
 show_meta: true
 tags:
     - eventi
 ---
-Sabato 2 marzo 2019 Vi aspettiamo dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22, 47921 Rimini.
+Sabato 4 maggio 2019 Vi aspettiamo dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22, 47921 Rimini.
 
-Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/....)
+Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/0640a7b1-3096-49c0-9547-e19befd9cd1a/sessions)
 
 Il Laboratorio Aperto Rimini Tiberio è in centro a Rimini vicino al Ponte di Tiberio, consigliamo il parcheggio, se venite in automobile, presso il parcheggio Tiberio:
 

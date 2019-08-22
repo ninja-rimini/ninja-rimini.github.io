@@ -1,16 +1,6 @@
 ---
 layout: page
 
-title: "Scratch 3"
-teaser: "A gennaio 2019 è stata pubblicata la versione 3 di Scratch, la storica piattaforma di programmazione dedicata ai più giovani (e anche ai meno...!) creata e implementata dal MIT di Boston.
-
-Scratch 3 cambia completamente tecnologia, diventa compatibile con tutti i sistemi, anche Android), ma garantendo ancora la compatibilità totale con i progetti creati precedentemente."
-
-title: "Risorse"
-
-subheadline: "Versione online"
-*[Crea, esplora, condividi] (https://scratch.mit.edu/) e trova tutte le informazioni!
-
 title: "Tutorial"
 subheadline: "Tutorial"
 teaser: "Questi sono link a risorse pubblicate dal Coderdojo di Milano"
@@ -84,7 +74,6 @@ Scriviamo una Mod per Minecraft
 ### [Python 3 - Arduino Esplora](http://coderdojomilano.it/tutorials/2014-03-17-tutorial-python-e-arduino-esplora/)
 Pubblicato il 03/17/2014
 Comandiamo Esplora con Python, di Stefano Ricci.
-
 
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).

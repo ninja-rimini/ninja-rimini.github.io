@@ -1,5 +1,16 @@
 ---
 layout: page
+
+title: "Scratch 3"
+teaser: "A gennaio 2019 è stata pubblicata la versione 3 di Scratch, la storica piattaforma di programmazione dedicata ai più giovani (e anche ai meno...!) creata e implementata dal MIT di Boston.
+
+Scratch 3 cambia completamente tecnologia, diventa compatibile con tutti i sistemi, anche Android), ma garantendo ancora la compatibilità totale con i progetti creati precedentemente."
+
+title: "Risorse"
+
+subheadline: "Versione online"
+*[Crea, esplora, condividi] (https://scratch.mit.edu/) e trova tutte le informazioni!
+
 title: "Tutorial"
 subheadline: "Tutorial"
 teaser: "Questi sono link a risorse pubblicate dal Coderdojo di Milano"

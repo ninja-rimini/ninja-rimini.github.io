@@ -3,14 +3,23 @@ layout: page
 
 title: "Tutorial"
 subheadline: "Tutorial"
-teaser: "Questi sono link a risorse pubblicate dal Coderdojo di Milano"
+teaser: "Questi sono link per chi vuole iniziare"
 permalink: "/risorse/tutorial/"
 header:
     title: CoderDojo Rimini
     image_fullwidth: "testata-tutorial.jpg"
 ---
 
-## SCRATCH
+## SCRATCH 3.0
+
+A gennaio 2019 è stata pubblicata la versione 3 di Scratch, la storica piattaforma di programmazione dedicata ai più giovani (e anche ai meno...!) creata e implementata dal MIT di Boston.
+
+Scratch 3 cambia completamente tecnologia, diventa compatibile con tutti i sistemi, anche Android), ma garantendo ancora la compatibilità totale con i progetti creati precedentemente.
+
+
+
+*[Crea, esplora, condividi] (https://scratch.mit.edu/) e trova tutte le informazioni!
+
 ###  [Avery cacciatrice di orribili mostri (Luigi Torelli)](http://coderdojomilano.it/tutorials/2016-02-12-scratch-avery-cacciatrice-di-orribili-mostri/)
 Pubblicato il 02/12/2016
 Questo Tutorial ti mostrerà come creare il gioco ‘Avery cacciatrice di orribili mostri’

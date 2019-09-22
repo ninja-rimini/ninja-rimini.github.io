@@ -6,9 +6,9 @@ teaser: "Questi sono link a risorse pubblicate"
 permalink: "/risorse/"
 header:
       title: Risorse
-   Risorse per "Che storia questo videogioco"
-   * [by Anna] https://sites.google.com/view/coderdojoriminirisorse/ Raccolta di tutorial ed esempi.    image_fullwidth: "testata-tutorial.jpg"
+   image_fullwidth: "testata-tutorial.jpg"
 ---
+
 ## Risorse per "Che storia questo videogioco"
 * [by Anna] https://sites.google.com/view/coderdojoriminirisorse/ Raccolta di tutorial ed esempi.
 

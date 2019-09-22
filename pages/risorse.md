@@ -1,7 +1,8 @@
 ---
 layout: page
 
-subheadline: "Tutorial"
+title: "Risorse"
+subheadline: "Risorse"
 teaser: "Questi sono link a risorse pubblicate"
 permalink: "/risorse/"
 header:

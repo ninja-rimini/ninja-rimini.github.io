@@ -2,12 +2,17 @@
 layout: page
 
 subheadline: "Tutorial"
-teaser: "Questi sono link a risorse pubblicate da altri Coderdojo italiani"
+teaser: "Questi sono link a risorse pubblicate"
 permalink: "/risorse/"
 header:
       title: Risorse
-      image_fullwidth: "testata-tutorial.jpg"
+   Risorse per "Che storia questo videogioco"
+   * [by Anna] https://sites.google.com/view/coderdojoriminirisorse/ Raccolta di tutorial ed esempi.    image_fullwidth: "testata-tutorial.jpg"
 ---
+## Risorse per "Che storia questo videogioco"
+* [by Anna] https://sites.google.com/view/coderdojoriminirisorse/ Raccolta di tutorial ed esempi.
+
+
 ## Risorse Scratch
 
 * [Scratch Sushi Cards	Coderdojo Verona](https://drive.google.com/folderview?id=0BzlYujM7klXnT1VBeXh6WDBrQ0k&usp=sharing) Sorgenti LibreOffice

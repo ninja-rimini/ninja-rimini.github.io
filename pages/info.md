@@ -3,7 +3,7 @@ layout: page
 title: "Info"
 subheadline: "Coderdojo Rimini"
 teaser: "CoderDojo Rimini è dedicato a ragazze e ragazzi di età compresa tra i 7 e 14 anni che vogliono imparare a programmare affiancati da informatici professionisti.
-Gli incontri si tengono ogni primo sabato e ogni terzo sabato del mese, dalle 15 alle 18."
+Gli incontri si tengono ogni primo sabato e ogni terzo sabato del mese, dalle 15:30 alle 17:30."
 permalink: "/info/"
 header:
     image_fullwidth: "header_unsplash_5.jpg"

@@ -10,6 +10,7 @@ header:
    image_fullwidth: "testata-tutorial.jpg"
 ---
 
+>>>>>>> 5d5dfaadf7e4a93a065a709bac5b881ced9a8610
 ## Risorse per "Che storia questo videogioco"
 * [by Anna] https://sites.google.com/view/coderdojoriminirisorse/ Raccolta di tutorial ed esempi.
 

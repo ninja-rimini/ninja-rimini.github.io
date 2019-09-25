@@ -33,3 +33,9 @@ Aggiorna contenuti sui siti del Comune di Rimini dal 2005.
 Appassionato di sviluppo web con un occhio attento all'accessibilità.
 Si occupa sempre per il Comune di agenda digitale e progetti per incrementare la partecipazione dei cittadini.
 Padre orgoglioso di una artista.
+
+## Anna Olivieri
+### Mentor e insegnante
+<img src="{{ site.urlimg }}anna_olivieri.png" heigh="250" width="250" style="float:right" alt="Anna Olivieri">
+
+Insegnante appassionata e tenace autodidatta nel mondo della tecnologia, ho accettato l’invito a diventare un mentor perché, dopo tanti anni, mi piace sempre di più continuare ad imparare! Il coderdojo per me è "affrontare ogni volta una nuova sfida"!!

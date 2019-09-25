@@ -27,15 +27,13 @@ CoderDojo è dedicato a ragazze e ragazzi di età compresa tra i 7 e 14 anni che
 * ti puoi iscrivere ai prossimi incontri su [zen.coderdojo.com][7]
 
 
-### I luoghi
+### Il luogo
 
-[Rimini Innovation Square][8]
-Il primo sabato del mese *Innovation Square* Corso d'Augusto, 62:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.206397874127!2d12.567132815510934!3d44.05844647910945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc3a3e634cc1b%3A0x7d8eea11445e556a!2sRimini+Innovation+Square!5e0!3m2!1sit!2sit!4v1512163784478" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Il Laboratorio Aperto Rimini Tiberio è in centro a Rimini vicino al Ponte di Tiberio, consigliamo il parcheggio, se venite in automobile, presso il parcheggio Tiberio:
 
-*Centro Civico di Via Bidente*
-Il terzo sabato del mese *Centro civico* di Via Bidente.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1434.1160528308324!2d12.573894958136409!3d44.03726059477753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc256198b3bfb%3A0xe26c0111b4a6ecb9!2sVia+Bidente%2C+1%2Fi%2C+47924+Rimini+RN!5e0!3m2!1sit!2sit!4v1512164087678" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2866.959361511206!2d12.564301251683695!3d44.06354777900686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc336cd47bf51%3A0xe581edc948251a2e!2sLaboratorio+Aperto+Rimini+Tiberio!5e0!3m2!1sen!2sit!4v1537536736653" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 
 [1]: https://github.com/gordonway/coderDojoTools
 [2]: https://www.coderdojorimini.org/chi-siamo/domande-frequenti/

@@ -30,7 +30,7 @@ Il sistema gestisce automaticamente la lista d’attesa, se non avete potuto las
 No, non serve nessuna competenza in ambito informatico. E’ invece importante che i partecipanti sappiano leggere e scrivere autonomamente.
 
 ### E’ indispensabile avere un PC?
-Per svolgere le attività serve un computer portatile, se non ne avete uno e ci avvisate per tempo, possiamo cercare di procurarne uno noi.
+Per svolgere le attività è utile utilizzare il proprio computer portatile, altrimenti se non ne avete uno, potete utilizzare i pc del Laboratorio Aperto.
 
 ### Ho un Mac, posso partecipare lo stesso?
 Sì, esiste una versione del programma per tutti i principali sistemi operativi.
@@ -41,7 +41,7 @@ Sì, esiste una versione del programma per tutti i principali sistemi operativi.
 ### Che dotazione deve avere il computer?
 Non serve nessuna configurazione software particolare.
 E’ indispensabile avere un mouse e l’alimentatore.
-Si lavora decisamente meglio su PC con schermo di almeno 13” (no Netbook).
+Si lavora decisamente meglio su PC, ma l'ultima versione di Scratch è fruibile online da qualsiasi browser anche da tablet.
 
 ### Mio figlio non ha ancora raggiunto l’età prevista, posso iscriverlo ugualmente?
 Per diversi motivi non è consentito partecipare ai minori di 7 anni, indipendentemente dalle loro abilità (lettura, scrittura, uso del PC).
@@ -52,9 +52,8 @@ No, non è consentito l’accesso alla struttura alle persone che non si sono pr
 ### Sono interessato alla vostra attività e vorrei osservare come si svolge?
 Scrivi a [info@coderdojorimini.it](mailto:info@coderdojorimini.it)
 
-### Organizzate incontri anche fuori città?
-Ci incontriamo due sabati al mese (il primo e l'ultimo) il primo sabato pomeriggio del mese al Rimini Innovation Square di Corso d'Agusto n.62 e l'ultimo sabato pomeriggio alla sala attrezzata del Centro Civico in via Bidente
-
+### Con quale cadenza organizzate gli incontri?
+Ci incontriamo indicativamente un sabato al mese (il primo); in particolari occasioni organizziamo anche altre giornate.
 
 ### Posso usare le immagini presenti nel sito coderdojorimini.it all’interno di siti o opere di mia proprietà?
 Tutti i contenuti, testuali e multimediali (foto, video, ecc.), presenti nel sito coderdojorimini.it</code> sono tutelati da copyright. Ciò significa che non possono essere utilizzati in nessun modo senza l’autorizzazione di coderdojorimini.it

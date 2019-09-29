@@ -10,7 +10,7 @@ categories:
 image:
     thumb: "/2019/Evento5ottobre_mini.png"
     title: "/2019/Evento5ottobre.png"
-    homepage: "/2019/Evento5ottobre_mini.png"
+    homepage: "/2019/Evento5ottobre_title.png"
 header:
     image_fullwidth: "/2019/Evento5ottobre_mini.png"
     caption:

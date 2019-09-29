@@ -8,11 +8,11 @@ breadcrumb: true
 categories:
     - eventi
 image:
-    thumb: "2019/Evento5ottobre_mini.png"
-    title: "2019/Evento5ottobre.png"
-    homepage: "2019/Evento5ottobre.png"
+    thumb: "/2019/Evento5ottobre_mini.png"
+    title: "/2019/Evento5ottobre.png"
+    homepage: "/2019/Evento5ottobre.png"
 header:
-    image_fullwidth: "2019/Evento5ottobre.png"
+    image_fullwidth: "/2019/Evento5ottobre.png"
     caption:
 comments: true
 show_meta: true

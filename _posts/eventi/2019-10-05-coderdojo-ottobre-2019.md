@@ -12,7 +12,7 @@ image:
     title: "/2019/Evento5ottobre.png"
     homepage: "/2019/Evento5ottobre_title.png"
 header:
-    image_fullwidth: "/2019/Evento5ottobre_mini.png"
+    image_fullwidth: "kids-coding.png"
     caption:
 comments: true
 show_meta: true

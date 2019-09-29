@@ -10,9 +10,9 @@ categories:
 image:
     thumb: "/2019/Evento5ottobre_mini.png"
     title: "/2019/Evento5ottobre.png"
-    homepage: "/2019/Evento5ottobre.png"
+    homepage: "/2019/Evento5ottobre_mini.png"
 header:
-    image_fullwidth: "/2019/Evento5ottobre.png"
+    image_fullwidth: "/2019/Evento5ottobre_mini.png"
     caption:
 comments: true
 show_meta: true
@@ -21,7 +21,7 @@ tags:
 ---
 Sabato 5 ottobre 2019 Vi aspettiamo dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22 (terzo piano), 47921 Rimini.
 
-Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/8c2d2b72-bf85-41e2-a6a7-5e58a667286e/sessions)
+Si può procedere alla iscrizione sulla [piattaforma Zen](https://zen.coderdojo.com/events/8c2d2b72-bf85-41e2-a6a7-5e58a667286e)
 
 Il Laboratorio Aperto Rimini Tiberio è in centro a Rimini vicino al Ponte di Tiberio, consigliamo il parcheggio, se venite in automobile, presso il parcheggio Tiberio:
 

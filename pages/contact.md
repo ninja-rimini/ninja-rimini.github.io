@@ -15,4 +15,4 @@ header:
 ## Oppure seguici sui social:
 * la nostra pagina facebook: [coderdojorimini][5]
 * ci puoi contattare su twitter:[@coderdojoRN][6]
-* Oppure cerca "coderdojorimin" su Instagram - https://instagram.com/coderdojorimini?igshid=1dp149142zw1m
+* Oppure cerca "coderdojorimini" su Instagram - https://instagram.com/coderdojorimini?igshid=1dp149142zw1m

@@ -9,7 +9,10 @@ header:
    image_fullwidth: "testata-ninja-form.jpg"
 ---
 ## I nostri contatti
-* Inviaci una maila  coderdojorimini@gmail.com
-Oppure seguici sui social:
-* [Facebook] (https://www.facebook.com/coderdojorimini/)
-* [Instagram] (https://instagram.com/coderdojorimini?igshid=1dp149142zw1m )
+
+* la nostra mail: coderdojorimini@gmail.com
+
+## Oppure seguici sui social:
+* la nostra pagina facebook: [coderdojorimini][5]
+* ci puoi contattare su twitter:[@coderdojoRN][6]
+* Oppure cerca "coderdojorimin" su Instagram - https://instagram.com/coderdojorimini?igshid=1dp149142zw1m

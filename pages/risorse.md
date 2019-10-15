@@ -25,7 +25,7 @@ header:
 Tutte le risorse sono distribuite con licenza [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Risorse per "Che storia questo videogioco"
-* [by Anna] https://sites.google.com/view/coderdojoriminirisorse/ Raccolta di tutorial ed esempi.
+* [by Anna] (https://sites.google.com/view/coderdojoriminirisorse/) Raccolta di tutorial ed esempi.
 
 
 ## Risorse Scratch

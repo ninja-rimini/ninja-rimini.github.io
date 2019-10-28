@@ -10,7 +10,7 @@ header:
 ---
 ## I nostri contatti
 
-* la nostra mail: coderdojorimini@gmail.com
+* la nostra mail: [coderdojorimini@gmail.com](mailto: coderdojorimini@gmail.com)
 
 ## Oppure seguici sui social:
 * su Facebook: coderdojorimini
@@ -18,4 +18,4 @@ header:
 * su Instagram: coderdojorimini
 
 ## Se sei interessato a Scratch
-Segui i progetti dei nostri ninja cercando coderdojorimini sul portale scratch.mit.edu
+Segui i progetti dei nostri ninja cercando coderdojorimini su [Scratch](https://scratch.mit.edu/)

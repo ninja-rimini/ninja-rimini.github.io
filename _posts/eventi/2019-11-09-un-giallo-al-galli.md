@@ -27,4 +27,4 @@ Creeremo insieme una storia ispirata ad un giallo, selezioneremo indizi e costru
 
 Ci vediamo al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22 (terzo piano), 47921 Rimini.alle 15.30.
 
-Iscrivetevi gratuitamente inviando una mail a: [rodaryclubletture@gmail.com](mailto: rodaryclubletture@gmail.com)
+Iscrivetevi gratuitamente inviando una mail a: [rodariclubletture@gmail.com](mailto: rodariclubletture@gmail.com)

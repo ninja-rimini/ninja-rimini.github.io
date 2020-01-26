@@ -8,9 +8,9 @@ breadcrumb: true
 categories:
     - news
 image:
-    thumb: 2020\coderdojoinverno.jpg
-    title: 2020\coderdojoinverno.jpg
-    homepage: 2020\coderdojoinverno.jpg
+    thumb: 2020\coderdojoinverno.png
+    title: 2020\coderdojoinverno.png
+    homepage: 2020\coderdojoinverno.png
     caption: Dojo febbraio
 header:
     image_fullwidth: "2020/coderdojoinverno.png"

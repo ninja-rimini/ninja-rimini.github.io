@@ -2,15 +2,15 @@
 layout: page
 sidebar: right
 subheadline: Eventi
-title:  "Calendario eventi 2019-20"
+title:  "Calendario prossimi eventi"
 teaser: "Abbiamo tante nuove idee da proporvi"
 breadcrumb: true
 categories:
     - eventi
 image:
-    thumb: "/2019/Calendario_mini2.png"
-    title: "/2019/Calendario_mini2.png"
-    homepage: "/2019/Calendario_mini2.png"
+    thumb: "/2020/Calendario_AGGIOR.jpg"
+    title: "/2020/Calendario_AGGIOR.jpg"
+    homepage: "/2020/Calendario_AGGIOR.jpg"
 header:
     image_fullwidth: "kids-coding.png"
     caption:
@@ -21,7 +21,7 @@ tags:
 ---
 Avete da 7 a 17 anni? Vi piace la tecnologia? Vorreste metterci le mani? Venite con noi e portate degli amici...In compagnia si crea meglio!
 
-Vi aspettiamo ogni primo sabato del mese dalle 15:30 al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22 (terzo piano), 47921 Rimini.
+Vi aspettiamo al [Laboratorio Aperto](http://laboratorioaperto.comune.rimini.it) di Rimini in Via dei Cavalieri 22 (terzo piano), 47921 Rimini.
 
 Il Laboratorio Aperto Rimini Tiberio è in centro a Rimini vicino al Ponte di Tiberio, consigliamo il parcheggio, se venite in automobile, presso il parcheggio Tiberio:
 

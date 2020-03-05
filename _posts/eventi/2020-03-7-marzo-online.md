@@ -11,7 +11,7 @@ image:
     thumb: 2020\coderdojoinverno.png
     title: 2020\coderdojoinverno.png
     homepage: 2020\coderdojoinverno.png
-    caption: Dojo febbraio
+    caption: Dojo 7 marzo
 header:
     image_fullwidth: "2020/coderdojoinverno.png"
     title: Coderdojo Online Marzo!

@@ -20,10 +20,15 @@ Nell’IT da oltre un quarto di secolo, mi batto:
 È una lotta impari assai.
 Sono fondatore e mentor per i Coderdojo di Rimini e Pesaro.
 
+
+
+
 ## Elena Moretti
 ### Mentor ed educatrice
 <img src="{{ site.urlimg }}elena_moretti2.png" heigh="250" width="250" style="float:right" alt="Elena Moretti">
 Appassionata e curiosa, ho accettato l’invito a diventare un mentor perché non bisogna mai smettere di imparare dai bambini e questa esperienza mi permette di farlo, divertendomi e restituendo in cambio (spero) un piccolo esempio di come il gioco aiuti a crescere sani e positivi! Un “coding” al giorno toglie lo stress di torno!!
+
+
 
 
 ## Mauro Ferri
@@ -34,11 +39,17 @@ Appassionato di sviluppo web con un occhio attento all'accessibilità.
 Si occupa sempre per il Comune di agenda digitale e progetti per incrementare la partecipazione dei cittadini.
 Padre orgoglioso di una artista.
 
+
+
+
 ## Anna Olivieri
 ### Mentor e insegnante
 <img src="{{ site.urlimg }}anna_olivieri.png" heigh="250" width="250" style="float:right" alt="Anna Olivieri">
 
 Insegnante appassionata e tenace autodidatta nel mondo della tecnologia, ho accettato l’invito a diventare un mentor perché, dopo tanti anni, mi piace sempre di più continuare ad imparare! Il coderdojo per me è "affrontare ogni volta una nuova sfida"!!
+
+
+
 
 ## Linda Betti
 ### Mentor junior

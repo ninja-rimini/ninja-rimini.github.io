@@ -39,3 +39,9 @@ Padre orgoglioso di una artista.
 <img src="{{ site.urlimg }}anna_olivieri.png" heigh="250" width="250" style="float:right" alt="Anna Olivieri">
 
 Insegnante appassionata e tenace autodidatta nel mondo della tecnologia, ho accettato l’invito a diventare un mentor perché, dopo tanti anni, mi piace sempre di più continuare ad imparare! Il coderdojo per me è "affrontare ogni volta una nuova sfida"!!
+
+## Linda Betti
+### Mentor junior
+<img src="{{ site.urlimg }}LINDA.jpg" heigh="250" width="250" style="float:right" alt="Linda Betti">
+
+Sono Linda, mentor junior del coderdojo e il mio superpotere digitale e la creatività nella programmazione. E il tuo?

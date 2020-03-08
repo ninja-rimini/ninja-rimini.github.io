@@ -55,4 +55,4 @@ Insegnante appassionata e tenace autodidatta nel mondo della tecnologia, ho acce
 ### Mentor junior
 <img src="{{ site.urlimg }}LINDA.jpg" heigh="250" width="250" style="float:right" alt="Linda Betti">
 
-Sono Linda, mentor junior del coderdojo e il mio superpotere digitale e la creatività nella programmazione. E il tuo?
+Sono Linda, mentor junior del coderdojo, e il mio superpotere digitale è la creatività nella programmazione. E il tuo?

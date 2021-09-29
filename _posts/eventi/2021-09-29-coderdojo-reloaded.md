@@ -8,9 +8,7 @@ breadcrumb: true
 categories:
     - eventi
 image:
-    thumb: "/2020/Calendario_AGGIOR.jpg"
-    title: "/2020/Calendario_AGGIOR.jpg"
-    homepage: "/2020/Calendario_AGGIOR.jpg"
+    homepage: "ritornoalfuturo.jpg"
 header:
     image_fullwidth: "header_coderdojo_2021.jpg"
     caption:
